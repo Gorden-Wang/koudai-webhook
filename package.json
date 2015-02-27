@@ -1,0 +1,14 @@
+{
+    "name": "webhook",
+    "version": "1.0.0",
+    "author": "wangshiqing",
+    "main" : "node server.js",
+    "description": "webhook for git",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "jsonfile":""
+    }
+}
+
